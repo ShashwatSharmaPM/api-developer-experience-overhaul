@@ -13,7 +13,7 @@
 
 ## The Problem
 
-The company had been running integrations for 10+ years. Over that time, the API landscape had accumulated layers of technical debt:
+The company had been running integrations for 20+ years. Over that time, the API landscape had accumulated layers of technical debt:
 
 **Legacy SOAP APIs were still in production.** Many partner integrations were built on SOAP endpoints that predated the company's modern REST architecture. These were slower, harder to debug, and a pain for new developers to work with.
 
